@@ -9,7 +9,9 @@ requirejs.config({
 		template : 'artTemplate/template-web',
 		common : '../js/common',
 		login : '../js/login',
-		teacher : '../js/teacher-list'
+		teacher : '../js/teacher-list',
+		index : '../js/index',
+		util : '../js/util'
 	},
 	//兼容非标准模块
 	shim : {
